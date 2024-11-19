@@ -33,7 +33,7 @@ hr{
     background-color: transparent;
 }
 .img-container{
-    background-image: url(/icons/asset\ 9.webp);
+    background-image: url(icons/asset\ 9.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
@@ -80,7 +80,7 @@ hr{
     }
 }
 .img-container2{
-    background-image: url(/icons/asset\ 11.png);
+    background-image: url(icons/asset\ 11.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
@@ -117,7 +117,7 @@ hr{
     }
 }
 .img-container3{
-    background-image: url(/icons/asset\ 13.png);
+    background-image: url(icons/asset\ 13.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
